@@ -1,0 +1,16 @@
+ul {
+    background-color: darkcyan;
+    text-align: center;
+
+}
+
+li {
+    display: inline-block;
+    font-size: 17px;
+    background-color: coral;
+    margin: 7px;
+}
+a {
+    
+    
+}
